@@ -1,0 +1,50 @@
+.subtask1_container, .subtask3_container, .subtask4_container{
+	width: 80%;
+	margin-left: 10%;
+}
+
+h2, h3, label, input, button{
+	text-align: center;
+}
+
+.inputs{
+	text-align: center;
+}
+
+.subtask1_container input, .subtask1_container label{
+	width: 20%;
+	height: 15px;
+	width: 20%;
+}
+
+.submit{
+	margin-top: 10px;
+	height: 30px;
+	width: 20%;
+	margin-left: 40%;
+}
+
+.matrix, .matrix td, .matrix th {
+  border: 1px solid black;
+}
+
+.matrix{
+	border-collapse: collapse;
+}
+
+.matrix tr{
+	width: 100%;
+}
+
+.matrix td{
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}
+
+.matrix input{
+	border: 0;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+}
